@@ -1,0 +1,223 @@
+*{margin: 0px;}
+.gorro1
+{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 100px;
+    left:100px;
+}
+.gorro2
+{
+    background-color: black;
+    border-radius: 50%;
+    width: 210px;
+    height: 100px;
+    position: fixed;
+    top:200px;
+    left: 70px;
+}
+.cara
+{
+    background-color: white;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    top: 230px;
+    left: 50px;
+}
+.ojo11
+{
+    background-color: blue;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 315px;
+    left: 105px
+}
+.ojo12
+{
+background-color: black;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+position: fixed;
+top: 325px;
+left: 120px
+}
+.ojo21
+{
+background-color: blue;
+border-radius: 50%;
+width: 50px;
+height: 50px;
+position: fixed;
+top: 315px;
+left: 205px
+}
+.ojo22
+{
+    background-color: black;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 325px;
+    left: 220px
+}
+.boca
+{
+    background-color: red;
+    border-radius: 50%;
+    width: 130px;
+    height: 50px;
+    position: fixed;
+    top: 405px;
+    left: 110px
+    }
+.nariz
+{
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 30px;
+    position: fixed;
+    top: 370px;
+    left: 150px;
+}
+.dboca
+{
+     background-color: black;
+    border-radius: 50%;
+    width: 100px;
+    height: 30px;
+    position: fixed;
+    top: 415px;
+    left: 125px;
+}
+.detalle
+{
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 470px;
+    left: 100px;
+}
+.detalle1
+{
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 470px;
+    left: 130px;
+}
+.detalle2
+{
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 470px;
+    left: 160px;
+}
+.detalle3
+{
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 470px;
+    left: 210px;
+}
+.detalle4
+{
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 470px;
+    left: 190px;
+}
+.cabello1
+{
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 260px;
+    left: 35px;
+}
+.cabello2
+{
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 290px;
+    left: 20px;
+}
+.cabello3
+{
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 290px;
+    left: 280px;
+}
+.cabello4
+{
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 260px;
+    left: 260px;
+}
